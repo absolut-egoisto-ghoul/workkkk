@@ -1,0 +1,20 @@
+D:\Visual Studio\калька\калька\bin\Debug\калька.exe.config
+D:\Visual Studio\калька\калька\bin\Debug\калька.exe
+D:\Visual Studio\калька\калька\bin\Debug\калька.pdb
+D:\Visual Studio\калька\калька\obj\Debug\калька.csproj.AssemblyReference.cache
+D:\Visual Studio\калька\калька\obj\Debug\калька.Form1.resources
+D:\Visual Studio\калька\калька\obj\Debug\калька.Properties.Resources.resources
+D:\Visual Studio\калька\калька\obj\Debug\калька.csproj.GenerateResource.cache
+D:\Visual Studio\калька\калька\obj\Debug\калька.csproj.CoreCompileInputs.cache
+D:\Visual Studio\калька\калька\obj\Debug\калька.exe
+D:\Visual Studio\калька\калька\obj\Debug\калька.pdb
+C:\Users\whet1\Desktop\калька\калька\bin\Debug\калька.exe.config
+C:\Users\whet1\Desktop\калька\калька\bin\Debug\калька.exe
+C:\Users\whet1\Desktop\калька\калька\bin\Debug\калька.pdb
+C:\Users\whet1\Desktop\калька\калька\obj\Debug\калька.csproj.AssemblyReference.cache
+C:\Users\whet1\Desktop\калька\калька\obj\Debug\калька.Properties.Resources.resources
+C:\Users\whet1\Desktop\калька\калька\obj\Debug\калька.csproj.GenerateResource.cache
+C:\Users\whet1\Desktop\калька\калька\obj\Debug\калька.csproj.CoreCompileInputs.cache
+C:\Users\whet1\Desktop\калька\калька\obj\Debug\калька.exe
+C:\Users\whet1\Desktop\калька\калька\obj\Debug\калька.pdb
+C:\Users\whet1\Desktop\калька\калька\obj\Debug\калька.zxcalculator.resources
